@@ -1,0 +1,9 @@
+<h1>Welcome to My Blog</h1>
+<%= link_to 'My Blog', controller: 'articles' %>
+
+<!-- <table>
+    <%= link_to 'New Article', new_article_path %>
+</table> -->
+
+<%= form_with scope: :article, url: articles_path, local: true do |form| %>
+<% end %>
