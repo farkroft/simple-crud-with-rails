@@ -1,24 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Simple Blog
+https://img.shields.io/github/license/mashape/apistatus.svg
+Languages : Ruby
+Framework : Rails
+Basic : Simple CRUD
 
-Things you may want to cover:
+# Pre
+Ruby Version version 2.5.3p105 (2018-10-18 revision 65156)
+PostgreSQL version 9.5.15
+Rails 5.2.1
+Bundler version 1.17.1
 
-* Ruby version
+# How to Run
+1. Git Clone <url repo> | Clone this repo
+2. bundle install | Install Gem
+3. rake db:create | Create database
+4. rake db:migrate | Migrate database
+5. rails s | Running your server on localhost
+6. Run your webpage at your browser localhost:3000
 
-* System dependencies
+# Author
+Fajar Agung Rizki ravenkroft69@gmail.com
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
