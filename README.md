@@ -1,7 +1,7 @@
 # README
 
 # Simple Blog
-https://img.shields.io/github/license/mashape/apistatus.svg
+ [![license](https://img.shields.io/github/license/mashape/apistatus.svg)]() 
 Languages : Ruby
 Framework : Rails
 Basic : Simple CRUD
